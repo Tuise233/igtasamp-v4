@@ -1,0 +1,1 @@
+#define COLOR_VIP 0xFFFF00C8
